@@ -3,7 +3,7 @@ entries:
   nginxstd:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2025-07-17T12:29:15.032498644+09:00"
+    created: "2025-07-17T12:32:53.762069748+09:00"
     description: nginx standard for woori company
     digest: 7ea87532ffc97ee3bb305ea683a129f300d4737df193e1f8354cd1e6636f6a55
     name: nginxstd
@@ -14,7 +14,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 5.0.7
-    created: "2025-07-17T12:29:15.033937787+09:00"
+    created: "2025-07-17T12:32:53.763408563+09:00"
     deprecated: true
     description: DEPRECATED Open source, advanced key-value store. It is often referred
       to as a data structure server since keys can contain strings, hashes, lists,
@@ -32,4 +32,4 @@ entries:
     urls:
     - redis-10.5.7.tgz
     version: 10.5.7
-generated: "2025-07-17T12:29:15.032080792+09:00"
+generated: "2025-07-17T12:32:53.761756436+09:00"
